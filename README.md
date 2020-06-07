@@ -6,7 +6,7 @@ This repository contains the implementation of the models described in the paper
 ### Modules
 - `./DataPreprocessing` - preprocesssing data files - Removed 
 - `./Datasets` contains the data files that were used during experiments 
-- `./Models` contains the implementation for: Whole Outfits prediction and Partial Outfits Prediction and the evaluation of the Style Classification experiments. More details in the ReadMe inside Models. 
+- `./Models` contains the implementation for: Whole Outfits prediction and Partial Outfits Prediction and the evaluation of the Style Classification experiments.
 
 For citation: 
 ### Outfit2Vec: Incorporating Clothing Hierarchical MetaData into Outfits' Recommendation
